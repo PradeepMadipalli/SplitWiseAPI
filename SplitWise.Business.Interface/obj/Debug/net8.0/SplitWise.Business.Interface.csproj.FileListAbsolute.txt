@@ -1,0 +1,15 @@
+C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\bin\Debug\net8.0\SplitWise.Business.Interface.deps.json
+C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\bin\Debug\net8.0\SplitWise.Business.Interface.dll
+C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\bin\Debug\net8.0\SplitWise.Business.Interface.pdb
+C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\obj\Debug\net8.0\SplitWise.Business.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\obj\Debug\net8.0\SplitWise.Business.Interface.AssemblyInfoInputs.cache
+C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\obj\Debug\net8.0\SplitWise.Business.Interface.AssemblyInfo.cs
+C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\obj\Debug\net8.0\SplitWise.Business.Interface.csproj.CoreCompileInputs.cache
+C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\obj\Debug\net8.0\SplitWise.Business.Interface.dll
+C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\obj\Debug\net8.0\refint\SplitWise.Business.Interface.dll
+C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\obj\Debug\net8.0\SplitWise.Business.Interface.pdb
+C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\obj\Debug\net8.0\ref\SplitWise.Business.Interface.dll
+C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\bin\Debug\net8.0\SplitWise.Model.dll
+C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\bin\Debug\net8.0\SplitWise.Model.pdb
+C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\obj\Debug\net8.0\SplitWise.Business.Interface.csproj.AssemblyReference.cache
+C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\obj\Debug\net8.0\SplitWis.9B94C950.Up2Date

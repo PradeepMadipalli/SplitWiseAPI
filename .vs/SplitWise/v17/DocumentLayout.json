@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\promact\\source\\repos\\SplitWise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{376D0FF9-EE2D-4DBE-9447-7FFEFF81B9F2}|SplitWise.API\\SplitWise.API.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376D0FF9-EE2D-4DBE-9447-7FFEFF81B9F2}|SplitWise.API\\SplitWise.API.csproj|solutionrelative:splitwise.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC453B1-E2EE-4CA6-B000-8040FB906BF7}|SplitWise.DataAccess\\SplitWise.DataAccess.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.dataaccess\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BC453B1-E2EE-4CA6-B000-8040FB906BF7}|SplitWise.DataAccess\\SplitWise.DataAccess.csproj|solutionrelative:splitwise.dataaccess\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32F5696-F47E-4D62-9A65-C2E13FCD091A}|SplitWise.Business\\SplitWise.Business.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.business\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32F5696-F47E-4D62-9A65-C2E13FCD091A}|SplitWise.Business\\SplitWise.Business.csproj|solutionrelative:splitwise.business\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.API\\Migrations\\20240514143828_addgroups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SplitWise.API\\Migrations\\20240514143828_addgroups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376D0FF9-EE2D-4DBE-9447-7FFEFF81B9F2}|SplitWise.API\\SplitWise.API.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.api\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376D0FF9-EE2D-4DBE-9447-7FFEFF81B9F2}|SplitWise.API\\SplitWise.API.csproj|solutionrelative:splitwise.api\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.model\\models\\usersgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|solutionrelative:splitwise.model\\models\\usersgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.model\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|solutionrelative:splitwise.model\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.model\\models\\splituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|solutionrelative:splitwise.model\\models\\splituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A54156-22CD-4BFC-9F89-BA54ACAA1B5F}|SplitWise.Common\\SplitWise.Common.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.common\\splitwisedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A54156-22CD-4BFC-9F89-BA54ACAA1B5F}|SplitWise.Common\\SplitWise.Common.csproj|solutionrelative:splitwise.common\\splitwisedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376D0FF9-EE2D-4DBE-9447-7FFEFF81B9F2}|SplitWise.API\\SplitWise.API.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376D0FF9-EE2D-4DBE-9447-7FFEFF81B9F2}|SplitWise.API\\SplitWise.API.csproj|solutionrelative:splitwise.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5695E4FC-D942-42FE-AC91-277B5A6EBEB5}|SplitWise.Business.Interface\\SplitWise.Business.Interface.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.business.interface\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5695E4FC-D942-42FE-AC91-277B5A6EBEB5}|SplitWise.Business.Interface\\SplitWise.Business.Interface.csproj|solutionrelative:splitwise.business.interface\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FC380F-3D1E-404B-9E2E-B6F26A8A1E0E}|SplitWise.DataAccess.Interface\\SplitWise.DataAccess.Interface.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.dataaccess.interface\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FC380F-3D1E-404B-9E2E-B6F26A8A1E0E}|SplitWise.DataAccess.Interface\\SplitWise.DataAccess.Interface.csproj|solutionrelative:splitwise.dataaccess.interface\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.model\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|solutionrelative:splitwise.model\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.model\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|solutionrelative:splitwise.model\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.model\\requestmodels\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|solutionrelative:splitwise.model\\requestmodels\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.model\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|solutionrelative:splitwise.model\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.model\\requestmodels\\getusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|solutionrelative:splitwise.model\\requestmodels\\getusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.model\\requestmodels\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|solutionrelative:splitwise.model\\requestmodels\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376D0FF9-EE2D-4DBE-9447-7FFEFF81B9F2}|SplitWise.API\\SplitWise.API.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.api\\splitwise.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{376D0FF9-EE2D-4DBE-9447-7FFEFF81B9F2}|SplitWise.API\\SplitWise.API.csproj|solutionrelative:splitwise.api\\splitwise.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.model\\requestmodels\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|solutionrelative:splitwise.model\\requestmodels\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.model\\requestmodels\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|solutionrelative:splitwise.model\\requestmodels\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.model\\requestmodels\\profiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|solutionrelative:splitwise.model\\requestmodels\\profiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.model\\requestmodels\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|solutionrelative:splitwise.model\\requestmodels\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.model\\splitwise.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34FA06C3-EDC2-4F89-93DF-74B8FE1FC317}|SplitWise.Model\\SplitWise.Model.csproj|solutionrelative:splitwise.model\\splitwise.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A54156-22CD-4BFC-9F89-BA54ACAA1B5F}|SplitWise.Common\\SplitWise.Common.csproj|c:\\users\\promact\\source\\repos\\splitwise\\splitwise.common\\splitwise.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41A54156-22CD-4BFC-9F89-BA54ACAA1B5F}|SplitWise.Common\\SplitWise.Common.csproj|solutionrelative:splitwise.common\\splitwise.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240514143828_addgroups.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.API\\Migrations\\20240514143828_addgroups.cs",
+              "RelativeDocumentMoniker": "SplitWise.API\\Migrations\\20240514143828_addgroups.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.API\\Migrations\\20240514143828_addgroups.cs",
+              "RelativeToolTip": "SplitWise.API\\Migrations\\20240514143828_addgroups.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:38:28.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.API\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "SplitWise.API\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.API\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "SplitWise.API\\Controllers\\GroupController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:31:34.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "SplitWise.API\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "SplitWise.API\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:49:59.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Business\\LoginService.cs",
+              "RelativeDocumentMoniker": "SplitWise.Business\\LoginService.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Business\\LoginService.cs",
+              "RelativeToolTip": "SplitWise.Business\\LoginService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADgvyEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:50:38.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.DataAccess\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "SplitWise.DataAccess\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.DataAccess\\LoginRepository.cs",
+              "RelativeToolTip": "SplitWise.DataAccess\\LoginRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADgvxgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T05:02:10.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SplitWiseDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Common\\SplitWiseDBContext.cs",
+              "RelativeDocumentMoniker": "SplitWise.Common\\SplitWiseDBContext.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Common\\SplitWiseDBContext.cs",
+              "RelativeToolTip": "SplitWise.Common\\SplitWiseDBContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:39:38.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SplitUser.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\Models\\SplitUser.cs",
+              "RelativeDocumentMoniker": "SplitWise.Model\\Models\\SplitUser.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\Models\\SplitUser.cs",
+              "RelativeToolTip": "SplitWise.Model\\Models\\SplitUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:10:10.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "SplitWise.Model\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\Models\\Group.cs",
+              "RelativeToolTip": "SplitWise.Model\\Models\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:46:44.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersGroup.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\Models\\UsersGroup.cs",
+              "RelativeDocumentMoniker": "SplitWise.Model\\Models\\UsersGroup.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\Models\\UsersGroup.cs",
+              "RelativeToolTip": "SplitWise.Model\\Models\\UsersGroup.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:47:42.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Business.Interface\\ILoginService.cs",
+              "RelativeDocumentMoniker": "SplitWise.Business.Interface\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Business.Interface\\ILoginService.cs",
+              "RelativeToolTip": "SplitWise.Business.Interface\\ILoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:54:16.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.API\\Program.cs",
+              "RelativeDocumentMoniker": "SplitWise.API\\Program.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.API\\Program.cs",
+              "RelativeToolTip": "SplitWise.API\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwD0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:03:41.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.DataAccess.Interface\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "SplitWise.DataAccess.Interface\\ILoginRepository.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.DataAccess.Interface\\ILoginRepository.cs",
+              "RelativeToolTip": "SplitWise.DataAccess.Interface\\ILoginRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T05:02:30.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetUsers.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\RequestModels\\GetUsers.cs",
+              "RelativeDocumentMoniker": "SplitWise.Model\\RequestModels\\GetUsers.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\RequestModels\\GetUsers.cs",
+              "RelativeToolTip": "SplitWise.Model\\RequestModels\\GetUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:30:11.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "SplitWise.Model\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\Models\\Users.cs",
+              "RelativeToolTip": "SplitWise.Model\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:56:17.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "SplitWise.Model\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\Models\\Register.cs",
+              "RelativeToolTip": "SplitWise.Model\\Models\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:28:50.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "SplitWise.Model\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\Models\\Login.cs",
+              "RelativeToolTip": "SplitWise.Model\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:21:34.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\RequestModels\\Users.cs",
+              "RelativeDocumentMoniker": "SplitWise.Model\\RequestModels\\Users.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\RequestModels\\Users.cs",
+              "RelativeToolTip": "SplitWise.Model\\RequestModels\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:31:25.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\RequestModels\\Response.cs",
+              "RelativeDocumentMoniker": "SplitWise.Model\\RequestModels\\Response.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\RequestModels\\Response.cs",
+              "RelativeToolTip": "SplitWise.Model\\RequestModels\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:49:45.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SplitWise.API",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.API\\SplitWise.API.csproj",
+              "RelativeDocumentMoniker": "SplitWise.API\\SplitWise.API.csproj",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.API\\SplitWise.API.csproj",
+              "RelativeToolTip": "SplitWise.API\\SplitWise.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T06:36:21.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\RequestModels\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "SplitWise.Model\\RequestModels\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\RequestModels\\TokenResponse.cs",
+              "RelativeToolTip": "SplitWise.Model\\RequestModels\\TokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:28:02.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\RequestModels\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "SplitWise.Model\\RequestModels\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\RequestModels\\RegisterRequest.cs",
+              "RelativeToolTip": "SplitWise.Model\\RequestModels\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T05:18:53.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Profiles.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\RequestModels\\Profiles.cs",
+              "RelativeDocumentMoniker": "SplitWise.Model\\RequestModels\\Profiles.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\RequestModels\\Profiles.cs",
+              "RelativeToolTip": "SplitWise.Model\\RequestModels\\Profiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:28:24.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\RequestModels\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "SplitWise.Model\\RequestModels\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\RequestModels\\LoginRequest.cs",
+              "RelativeToolTip": "SplitWise.Model\\RequestModels\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T05:18:23.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SplitWise.Model",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\SplitWise.Model.csproj",
+              "RelativeDocumentMoniker": "SplitWise.Model\\SplitWise.Model.csproj",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\SplitWise.Model.csproj",
+              "RelativeToolTip": "SplitWise.Model\\SplitWise.Model.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T05:16:24.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SplitWise.Common",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Common\\SplitWise.Common.csproj",
+              "RelativeDocumentMoniker": "SplitWise.Common\\SplitWise.Common.csproj",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Common\\SplitWise.Common.csproj",
+              "RelativeToolTip": "SplitWise.Common\\SplitWise.Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T04:39:07.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess.Interface\bin\Debug\net8.0\SplitWise.DataAccess.Interface.deps.json
+C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess.Interface\bin\Debug\net8.0\SplitWise.DataAccess.Interface.dll
+C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess.Interface\bin\Debug\net8.0\SplitWise.DataAccess.Interface.pdb
+C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess.Interface\obj\Debug\net8.0\SplitWise.DataAccess.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess.Interface\obj\Debug\net8.0\SplitWise.DataAccess.Interface.AssemblyInfoInputs.cache
+C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess.Interface\obj\Debug\net8.0\SplitWise.DataAccess.Interface.AssemblyInfo.cs
+C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess.Interface\obj\Debug\net8.0\SplitWise.DataAccess.Interface.csproj.CoreCompileInputs.cache
+C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess.Interface\obj\Debug\net8.0\SplitWise.DataAccess.Interface.dll
+C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess.Interface\obj\Debug\net8.0\refint\SplitWise.DataAccess.Interface.dll
+C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess.Interface\obj\Debug\net8.0\SplitWise.DataAccess.Interface.pdb
+C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess.Interface\obj\Debug\net8.0\ref\SplitWise.DataAccess.Interface.dll
+C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess.Interface\bin\Debug\net8.0\SplitWise.Model.dll
+C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess.Interface\bin\Debug\net8.0\SplitWise.Model.pdb
+C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess.Interface\obj\Debug\net8.0\SplitWise.DataAccess.Interface.csproj.AssemblyReference.cache
+C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess.Interface\obj\Debug\net8.0\SplitWis.A522B7F9.Up2Date

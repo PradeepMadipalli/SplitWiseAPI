@@ -1,0 +1,12 @@
+C:\Users\promact\source\repos\SplitWise\SplitWise.Model\bin\Debug\net8.0\SplitWise.Model.deps.json
+C:\Users\promact\source\repos\SplitWise\SplitWise.Model\bin\Debug\net8.0\SplitWise.Model.dll
+C:\Users\promact\source\repos\SplitWise\SplitWise.Model\bin\Debug\net8.0\SplitWise.Model.pdb
+C:\Users\promact\source\repos\SplitWise\SplitWise.Model\obj\Debug\net8.0\SplitWise.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\source\repos\SplitWise\SplitWise.Model\obj\Debug\net8.0\SplitWise.Model.AssemblyInfoInputs.cache
+C:\Users\promact\source\repos\SplitWise\SplitWise.Model\obj\Debug\net8.0\SplitWise.Model.AssemblyInfo.cs
+C:\Users\promact\source\repos\SplitWise\SplitWise.Model\obj\Debug\net8.0\SplitWise.Model.csproj.CoreCompileInputs.cache
+C:\Users\promact\source\repos\SplitWise\SplitWise.Model\obj\Debug\net8.0\SplitWise.Model.dll
+C:\Users\promact\source\repos\SplitWise\SplitWise.Model\obj\Debug\net8.0\refint\SplitWise.Model.dll
+C:\Users\promact\source\repos\SplitWise\SplitWise.Model\obj\Debug\net8.0\SplitWise.Model.pdb
+C:\Users\promact\source\repos\SplitWise\SplitWise.Model\obj\Debug\net8.0\ref\SplitWise.Model.dll
+C:\Users\promact\source\repos\SplitWise\SplitWise.Model\obj\Debug\net8.0\SplitWise.Model.csproj.AssemblyReference.cache

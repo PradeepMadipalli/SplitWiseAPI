@@ -1,0 +1,357 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.DataAccess\\SplitWise.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Business.Interface\\SplitWise.Business.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Business.Interface\\SplitWise.Business.Interface.csproj",
+        "projectName": "SplitWise.Business.Interface",
+        "projectPath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Business.Interface\\SplitWise.Business.Interface.csproj",
+        "packagesPath": "C:\\Users\\promact\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Business.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\promact\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\SplitWise.Model.csproj": {
+                "projectPath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\SplitWise.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Common\\SplitWise.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Common\\SplitWise.Common.csproj",
+        "projectName": "SplitWise.Common",
+        "projectPath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Common\\SplitWise.Common.csproj",
+        "packagesPath": "C:\\Users\\promact\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\promact\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Business.Interface\\SplitWise.Business.Interface.csproj": {
+                "projectPath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Business.Interface\\SplitWise.Business.Interface.csproj"
+              },
+              "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.DataAccess.Interface\\SplitWise.DataAccess.Interface.csproj": {
+                "projectPath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.DataAccess.Interface\\SplitWise.DataAccess.Interface.csproj"
+              },
+              "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\SplitWise.Model.csproj": {
+                "projectPath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\SplitWise.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.DataAccess.Interface\\SplitWise.DataAccess.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.DataAccess.Interface\\SplitWise.DataAccess.Interface.csproj",
+        "projectName": "SplitWise.DataAccess.Interface",
+        "projectPath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.DataAccess.Interface\\SplitWise.DataAccess.Interface.csproj",
+        "packagesPath": "C:\\Users\\promact\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.DataAccess.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\promact\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\SplitWise.Model.csproj": {
+                "projectPath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\SplitWise.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.DataAccess\\SplitWise.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.DataAccess\\SplitWise.DataAccess.csproj",
+        "projectName": "SplitWise.DataAccess",
+        "projectPath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.DataAccess\\SplitWise.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\promact\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\promact\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Common\\SplitWise.Common.csproj": {
+                "projectPath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Common\\SplitWise.Common.csproj"
+              },
+              "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.DataAccess.Interface\\SplitWise.DataAccess.Interface.csproj": {
+                "projectPath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.DataAccess.Interface\\SplitWise.DataAccess.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\SplitWise.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\SplitWise.Model.csproj",
+        "projectName": "SplitWise.Model",
+        "projectPath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\SplitWise.Model.csproj",
+        "packagesPath": "C:\\Users\\promact\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\promact\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
