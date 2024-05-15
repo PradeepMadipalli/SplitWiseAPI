@@ -153,3 +153,5 @@ C:\Users\promact\source\repos\SplitWise\SplitWise.API\bin\Debug\net8.0\SplitWise
 C:\Users\promact\source\repos\SplitWise\SplitWise.API\bin\Debug\net8.0\SplitWise.DataAccess.Interface.pdb
 C:\Users\promact\source\repos\SplitWise\SplitWise.API\bin\Debug\net8.0\SplitWise.DataAccess.pdb
 C:\Users\promact\source\repos\SplitWise\SplitWise.API\bin\Debug\net8.0\SplitWise.Model.pdb
+C:\Users\promact\source\repos\SplitWise\SplitWise.API\obj\Debug\net8.0\SplitWise.API.sourcelink.json
+C:\Users\promact\source\repos\SplitWise\SplitWise.API\bin\Debug\net8.0\Newtonsoft.Json.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0ibAbz3qWVBzWLzKzK/mFrOpvp7sZMWDY8rwgYF8hskPPG/JYavGfYgrfwjf8yju2vC1i64MbAc7KvXGXT9+kA==",
+  "dgSpecHash": "KlidMwSKLeLtPjS4BwJUd9tuEqxJm6I3020dj5FDw8UcvIgYAY0Wa5s5jRPuLnsDkADjVc16q2EC1BuJwgnBnQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.Business\\SplitWise.Business.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,7 @@
     "C:\\Users\\promact\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
     "C:\\Users\\promact\\.nuget\\packages\\microsoft.identitymodel.logging\\7.1.2\\microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
     "C:\\Users\\promact\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.1.2\\microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\promact\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\promact\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
   ],
   "logs": []

@@ -19,3 +19,4 @@ C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess\bin\Debug\net8.0\Sp
 C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess\bin\Debug\net8.0\SplitWise.Model.pdb
 C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess\obj\Debug\net8.0\SplitWise.DataAccess.csproj.AssemblyReference.cache
 C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess\obj\Debug\net8.0\SplitWis.6827A07C.Up2Date
+C:\Users\promact\source\repos\SplitWise\SplitWise.DataAccess\obj\Debug\net8.0\SplitWise.DataAccess.sourcelink.json

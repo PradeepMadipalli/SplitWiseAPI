@@ -34,5 +34,7 @@ namespace SplitWise.Common
         public DbSet<Group> Group { get; set; }
         public DbSet<UsersGroup> UserGroups { get; set; }
 
+        public DbSet<Categories> Categories { get; set; }
+
     }
 }

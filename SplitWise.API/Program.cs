@@ -53,6 +53,8 @@ builder.Services.AddIdentity<SplitUser, IdentityRole>()
 
 
 builder.Services.AddScoped<ILoginRepository, LoginRepository>();
+builder.Services.AddScoped<IGroupRepository, GroupRepository>();
+builder.Services.AddScoped<IGroupService, GroupService>();
 builder.Services.AddScoped<ILoginService, LoginService>();
 
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SplitWise.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65b486c59c2b4dc947b4254698a36c610786ce75")]
 [assembly: System.Reflection.AssemblyProductAttribute("SplitWise.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SplitWise.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

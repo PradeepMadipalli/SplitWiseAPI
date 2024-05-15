@@ -78,6 +78,7 @@ namespace SplitWise.API.Controllers
         }
         [HttpGet]
         [Route("users")]
+        [AllowAnonymous]
         public async Task<IActionResult> GetUsers()
         {
             var users = await _loginService.GetGetUsers();

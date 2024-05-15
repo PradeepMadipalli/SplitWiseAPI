@@ -13,3 +13,4 @@ C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\bin\Debug\n
 C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\bin\Debug\net8.0\SplitWise.Model.pdb
 C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\obj\Debug\net8.0\SplitWise.Business.Interface.csproj.AssemblyReference.cache
 C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\obj\Debug\net8.0\SplitWis.9B94C950.Up2Date
+C:\Users\promact\source\repos\SplitWise\SplitWise.Business.Interface\obj\Debug\net8.0\SplitWise.Business.Interface.sourcelink.json

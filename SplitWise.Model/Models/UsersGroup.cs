@@ -21,5 +21,6 @@ namespace SplitWise.Model.Models
         public Guid? GroupId { get; set; }
 
         public virtual Group? Group { get; set; }
+        public int Status { get; set; }
     }
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ppymULQyhzt6PPmRnl5GsCuhvM5BkezpOjiLstmjvKzVBpMgBBmnezkVNDCHPwHROHGtXSPBo8bt+qZx1WFqgQ==",
+  "dgSpecHash": "XhWYSLxjLq82WOu13GGHbGlW9AIvJOw+22uYVhxpB1ITA8ZFx6zIhXk79Izmaxjtma2Ho9o4/xHIbqjeY7LkJg==",
   "success": true,
   "projectFilePath": "C:\\Users\\promact\\source\\repos\\SplitWise\\SplitWise.DataAccess\\SplitWise.DataAccess.csproj",
   "expectedPackageFiles": [
@@ -21,7 +21,8 @@
     "C:\\Users\\promact\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "C:\\Users\\promact\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\promact\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
-    "C:\\Users\\promact\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+    "C:\\Users\\promact\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\promact\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
