@@ -11,7 +11,7 @@ namespace SplitWise.Model.RequestModels
         public string? groupId { get; set; }
         public string? groupName { get; set; }
         public string? Category { get; set; }
-        public string? SimplifyDebts { get; set; }
+        public bool? SimplifyDebts { get; set; }
         public string? Comments { get; set; }
     }
 }

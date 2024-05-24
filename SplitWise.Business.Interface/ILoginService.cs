@@ -17,6 +17,7 @@ namespace SplitWise.Business.Interface
         TokenResponse GetTokenResponse(SplitUser user);
         Task<bool> userCheckPassword(SplitUser users, string password);
         Task<List<GetUsers>> GetGetUsers();
-        
+
+
     }
 }

@@ -15,8 +15,10 @@ namespace SplitWise.Model.Models
         public int Status { get; set; }
         public string? UserId { get; set; }
         public string? Category { get; set; }
-        public string? SimplifyDebts { get; set; }
+        public bool? SimplifyDebts { get; set; }
         public string? Comments { get; set; }
+        public DateTime? CreatedDate { get; set; }
+        public string? CreatedBy { get; set; }
 
         public virtual ICollection<UsersGroup>? Groups { get; set; }
     }
@@ -24,15 +26,20 @@ namespace SplitWise.Model.Models
     {
         public Guid? GroupId { get; set; }
         public string? GroupName { get; set; }
+        public string? UserId { get; set; }
     }
 
     public class getEditGroup
     {
         public Guid? GroupId { get; set; }
         public string? GroupName { get; set; }
+        public List<GetUsers>? usersGroups { get; set; }
+        public string? Comments { get; set; }
+        public string? Category { get; set; }
 
-        public List<GetUsers> usersGroups { get; set; }
+        public bool? SimplifyDebts { get; set; }
 
+        public DateTime? CreatedDate { get; set; }
     }
     public class RequesteditGroup
     {

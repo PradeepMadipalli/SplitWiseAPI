@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SplitWise.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65b486c59c2b4dc947b4254698a36c610786ce75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28c22e0dfa187fb52edcee6112ca0ac49f4c6991")]
 [assembly: System.Reflection.AssemblyProductAttribute("SplitWise.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SplitWise.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

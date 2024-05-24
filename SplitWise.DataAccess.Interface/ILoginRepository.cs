@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using SplitWise.Model.Models;
+using SplitWise.Model.RequestModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,5 +17,6 @@ namespace SplitWise.DataAccess.Interface
         Task<SplitUser> userFindById(string Id);
         Task<string> userGetUserId(SplitUser identityUser);
         Task<List<SplitUser>> GetUsersList();
+        Task<List<GetUsers>> GetFriendsList(List<string> request);
     }
 }

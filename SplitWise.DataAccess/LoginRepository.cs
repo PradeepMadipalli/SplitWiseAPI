@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using SplitWise.DataAccess.Interface;
 using SplitWise.Model.Models;
+using SplitWise.Model.RequestModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace SplitWise.DataAccess
 {
-    public class LoginRepository: ILoginRepository
+    public class LoginRepository : ILoginRepository
     {
         private readonly UserManager<SplitUser> _userManager;
 
@@ -33,7 +34,7 @@ namespace SplitWise.DataAccess
         }
         public async Task<IdentityResult> userCreate(SplitUser identityUser, string password)
         {
-           return await _userManager.CreateAsync(identityUser, password);
+            return await _userManager.CreateAsync(identityUser, password);
         }
         public async Task<SplitUser> userFindById(string Id)
         {
@@ -48,6 +49,16 @@ namespace SplitWise.DataAccess
         {
             return await _userManager.Users.ToListAsync();
         }
+        public async Task<List<GetUsers>> GetFriendsList(List<string> request)
+        {
+            return await _userManager.Users.Where(p => request.Contains(p.Id.ToString())).Select(u => new GetUsers
+            {
+                UserId = u.Id,
+                UserEmail = u.Email,
+                UserName = u.UserName,
+            }).ToListAsync();
+        }
+   
 
     }
 }

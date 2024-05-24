@@ -114,5 +114,7 @@ namespace SplitWise.Business
             };
             return UserDetails;
         }
+
+
     }
 }
